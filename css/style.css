@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 32px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin-top: 40px;
+}
+
+.release-date {
+  font-weight: bold;
+}
+
+.rating {
+  font-weight: bold;
+}
+
+.plot-summary {
+  margin-top: 20px;
+}
+
+.character-list {
+  margin-top: 20px;
+}
+
+.character-list h3 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.character-name,
+.actor-name {
+  font-weight: bold;
+}
+
+.movie-image {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
+.review {
+  margin-top: 40px;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+  font-style: italic;
+}
+
+body {
+  color: #333;
+  background-color: #f8f8f8;
+}
+
+a {
+  color: #008080;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
